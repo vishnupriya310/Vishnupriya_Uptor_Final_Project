@@ -1,0 +1,42 @@
+Project Overview: Candidate Performance Analysis
+
+As a part of the Learning & Development (L&D) department,
+I am exploring the possibility of working on a simple project focused on analyzing candidate performance.
+
+For this project, I am using a student performance dataset, which includes the following columns:
+
+Student_ID
+
+Age
+Gender
+Study_Hours_per_Week
+Preferred_Learning_Style
+Online_Courses_Completed
+Participation_in_Discussions
+Assignment_Completion_Rate (%)
+Exam_Score (%)
+Attendance_Rate (%)
+Use_of_Educational_Tech
+Self_Reported_Stress_Level
+Time_Spent_on_Social_Media (hours/week)
+Sleep_Hours_per_Night
+Final_Score
+
+Objective:
+The goal of this project is to train and analyze the relationship between the Time Spent on Social Media (hours/week) and Final Score to understand the impact of social media usage on student performance.
+
+Approach:
+We aim to use a Supervised Learning model, specifically Support Vector Machine (SVM), to predict the Final Score of a candidate based on the Time Spent on Social Media (hours/week). The model will be trained using labeled data, where the input features are associated with the corresponding performance outcomes (Final Score).
+
+Plan:
+Data Preprocessing: Clean and prepare the dataset by handling missing values, encoding categorical variables, and normalizing or scaling numeric values.
+
+Model Training: Implement and train the SVM model using the labeled dataset.
+
+Analysis: Evaluate the model's performance and analyze how the time spent on social media correlates with the final score, and how other factors might impact candidate performance.
+
+This project will help in understanding how certain behaviors and habits, like time spent on social media, affect overall academic performance, providing valuable insights for improving candidate outcomes.
+
+
+
+
